@@ -1,0 +1,22 @@
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\291 Project UI.exe
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\291 Project UI.deps.json
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\291 Project UI.runtimeconfig.json
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\291 Project UI.runtimeconfig.dev.json
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\291 Project UI.dll
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\291 Project UI.pdb
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\obj\Debug\netcoreapp3.1\291 Project UI.csprojAssemblyReference.cache
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\obj\Debug\netcoreapp3.1\_291_Project_UI.Form1.resources
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\obj\Debug\netcoreapp3.1\291 Project UI.csproj.GenerateResource.cache
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\obj\Debug\netcoreapp3.1\291 Project UI.AssemblyInfoInputs.cache
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\obj\Debug\netcoreapp3.1\291 Project UI.AssemblyInfo.cs
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\obj\Debug\netcoreapp3.1\291 Project UI.csproj.CoreCompileInputs.cache
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\obj\Debug\netcoreapp3.1\291 Project UI.dll
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\obj\Debug\netcoreapp3.1\291 Project UI.pdb
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\obj\Debug\netcoreapp3.1\291 Project UI.genruntimeconfig.cache
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pitapan\Downloads\291 Project\291 Project UI\291 Project UI\obj\Debug\netcoreapp3.1\291 Project UI.csproj.CopyComplete

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pitapan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pitapan\\.nuget\\packages"
+    ]
+  }
+}
